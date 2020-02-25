@@ -1,8 +1,9 @@
-# Data Science
+# Summary of day 1
+## Data Science
 "The sexiest job of the 21st centory." Havard Business
 
 "An interdisciplinary field that uses scientific methods, algorithms and systems to extract knowledge and insights from data in various forms, both structured and unstructured" Wikipedia
-## Fields
+### Fields
 - Math and stats
 - Programming and database
 - domain knowledge and soft skills
@@ -17,7 +18,7 @@ Data Science for development
 
 ...TO BE UPDATED ...
 
-Introduction to Python
+## Introduction to Python
 - Variable declaration
 - Data types (list, dictionaries, sets, int, float...)
 - Operators
@@ -25,3 +26,9 @@ Introduction to Python
 - Modules and functions
 - File handling
 - Error handling.
+## Further things to learn
+- Classes
+- Error handling
+- Data types (knowing when to use a specific data type)
+- Specific libraries for data science.
+    - Pandas
